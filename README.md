@@ -3,7 +3,7 @@
 <div align="center">
  
 [![Paper](https://img.shields.io/badge/MSANN-Paper-red.svg)](https://ieeexplore.ieee.org/abstract/document/10012299)
-1
+
 </div>
 <div align=center>
 <img src="https://github.com/user-attachments/assets/773d79c4-f33a-437c-8a2a-7dd67f58597f" width="640">
